@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjsapi_angular_cli=self.webpackChunkjsapi_angular_cli||[]).push([[8507],{18507:(e,s,n)=>{n.r(s),n.d(s,{CalciteAction:()=>a,defineCustomElement:()=>c});var t=n(35782);const a=t.A,c=t.d}}]);
